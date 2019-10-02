@@ -37,7 +37,7 @@ class RandomizedSet {
     }
 }
 // Init an empty set.
-randomSet = new RandomizedSet();
+const randomSet = new RandomizedSet();
 // Inserts 1 to the set. Returns true as 1 was inserted successfully.
 console.log(randomSet.insert(1));
 
